@@ -27,5 +27,7 @@ plt.xlabel('GDP per capita (constant 2010 US$)')
 plt.ylabel('Mortality Rate (per 1,000 live births)')
 plt.grid(True)
 
+print ("Hello world")
+
 # Show the plot
 plt.show()
